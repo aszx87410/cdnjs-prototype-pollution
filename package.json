@@ -1,0 +1,25 @@
+{
+  "name": "cdnjs-fuzzing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aszx87410/cdnjs-fuzzing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aszx87410/cdnjs-fuzzing/issues"
+  },
+  "homepage": "https://github.com/aszx87410/cdnjs-fuzzing#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "express": "^4.17.3",
+    "puppeteer": "^13.5.1"
+  }
+}

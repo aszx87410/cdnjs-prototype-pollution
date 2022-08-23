@@ -1,0 +1,170 @@
+[
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/asciidoctor.js/1.5.9/asciidoctor.min.js",
+    "functions": [
+      "Array.prototype.$concat",
+      "Array.prototype.$push",
+      "Array.prototype.$append",
+      "Array.prototype.$rotate!",
+      "Array.prototype.$shuffle!",
+      "Array.prototype.$sort",
+      "Array.prototype.$to_a",
+      "Array.prototype.$to_ary",
+      "Array.prototype.$unshift",
+      "Array.prototype.$prepend",
+      "String.prototype.$initialize",
+      "String.prototype.$chomp",
+      "String.prototype.$force_encoding",
+      "Function.prototype.$to_proc"
+    ]
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/jquery-ui-bootstrap/0.5pre/third-party/jQuery-UI-Date-Range-Picker/js/date.js",
+    "functions": [
+      "Number.prototype.milliseconds",
+      "Number.prototype.millisecond",
+      "Number.prototype.seconds",
+      "Number.prototype.second",
+      "Number.prototype.minutes",
+      "Number.prototype.minute",
+      "Number.prototype.hours",
+      "Number.prototype.hour",
+      "Number.prototype.days",
+      "Number.prototype.day",
+      "Number.prototype.weeks",
+      "Number.prototype.week",
+      "Number.prototype.months",
+      "Number.prototype.month",
+      "Number.prototype.years",
+      "Number.prototype.year"
+    ]
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/ext-core/3.1.0/ext-core.min.js",
+    "functions": [
+      "Function.prototype.createInterceptor"
+    ]
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/datejs/1.0/date.min.js",
+    "functions": [
+      "Number.prototype.milliseconds",
+      "Number.prototype.millisecond",
+      "Number.prototype.seconds",
+      "Number.prototype.second",
+      "Number.prototype.minutes",
+      "Number.prototype.minute",
+      "Number.prototype.hours",
+      "Number.prototype.hour",
+      "Number.prototype.days",
+      "Number.prototype.day",
+      "Number.prototype.weeks",
+      "Number.prototype.week",
+      "Number.prototype.months",
+      "Number.prototype.month",
+      "Number.prototype.years",
+      "Number.prototype.year"
+    ]
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/json-forms/1.6.3/js/brutusin-json-forms.min.js",
+    "functions": [
+      "String.prototype.format"
+    ]
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/inheritance-js/0.4.12/inheritance.min.js",
+    "functions": [
+      "Object.prototype.mix",
+      "Object.prototype.mixDeep"
+    ]
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/melonjs/1.0.1/melonjs.min.js",
+    "functions": [
+      "Array.prototype.remove"
+    ]
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/mootools/1.6.0/mootools-core-compat.min.js",
+    "functions": [
+      "Array.prototype.erase",
+      "Array.prototype.empty",
+      "Function.prototype.extend",
+      "Function.prototype.implement",
+      "Function.prototype.hide",
+      "Function.prototype.protect"
+    ]
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/mootools/1.6.0/mootools-core.min.js",
+    "functions": [
+      "Array.prototype.erase",
+      "Array.prototype.empty",
+      "Function.prototype.extend",
+      "Function.prototype.implement",
+      "Function.prototype.hide",
+      "Function.prototype.protect"
+    ]
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/opal/0.3.43/opal.min.js",
+    "functions": [
+      "Array.prototype.$extend",
+      "Array.prototype.$to_proc",
+      "Array.prototype.$to_a",
+      "Array.prototype.$collect!",
+      "Array.prototype.$delete_if",
+      "Array.prototype.$each_index",
+      "Array.prototype.$fill",
+      "Array.prototype.$insert",
+      "Array.prototype.$keep_if",
+      "Array.prototype.$map!",
+      "Array.prototype.$push",
+      "Array.prototype.$shuffle",
+      "Array.prototype.$to_ary",
+      "Array.prototype.$unshift",
+      "String.prototype.$as_json",
+      "String.prototype.$extend",
+      "String.prototype.$intern",
+      "String.prototype.$to_sym",
+      "Number.prototype.$as_json",
+      "Number.prototype.$extend",
+      "Number.prototype.$to_proc",
+      "Number.prototype.$downto",
+      "Number.prototype.$nonzero?",
+      "Number.prototype.$ord",
+      "Number.prototype.$times",
+      "Function.prototype.$include",
+      "Function.prototype.$module_function",
+      "Function.prototype.$extend",
+      "Function.prototype.$to_proc"
+    ]
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/prototype/1.7.3/prototype.min.js",
+    "functions": [
+      "Array.prototype.clear",
+      "Number.prototype.times",
+      "Function.prototype.curry"
+    ]
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/tmlib.js/0.5.2/tmlib.min.js",
+    "functions": [
+      "Array.prototype.swap",
+      "Array.prototype.eraseAll",
+      "Array.prototype.eraseIf",
+      "Array.prototype.eraseIfAll",
+      "Array.prototype.clear",
+      "Array.prototype.shuffle",
+      "Number.prototype.times",
+      "Number.prototype.upto",
+      "Number.prototype.downto",
+      "Number.prototype.step",
+      "Object.prototype.$extend",
+      "Object.prototype.$safe",
+      "Object.prototype.$strict"
+    ]
+  }
+]

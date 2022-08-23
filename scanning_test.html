@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <script>
+    function getPrototypeFunctions(prototype) {
+      return Object.getOwnPropertyNames(prototype)
+    }
+    var protos = {
+      array: getPrototypeFunctions(Array.prototype),
+      string: getPrototypeFunctions(String.prototype),
+      number: getPrototypeFunctions(Number.prototype),
+      object: getPrototypeFunctions(Object.prototype),
+      function: getPrototypeFunctions(Function.prototype)
+    }
+  </script>
+</head>
+<body>
+  <!-- insert here -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/prototype/1.7.3/prototype.min.js"></script>
+  <!-- insert here -->
+  <script>
+
+    var newProtos = {
+      array: getPrototypeFunctions(Array.prototype),
+      string: getPrototypeFunctions(String.prototype),
+      number: getPrototypeFunctions(Number.prototype),
+      object: getPrototypeFunctions(Object.prototype),
+      function: getPrototypeFunctions(Function.prototype)
+    }
+
+    let result = {
+      prototypeFunctions: [],
+      functionsReturnWindow: []
+    }
+
+    function check() {
+      checkPrototype('array', 'Array.prototype', Array.prototype)
+      checkPrototype('string', 'String.prototype', String.prototype)
+      checkPrototype('number', 'Number.prototype', Number.prototype)
+      checkPrototype('object', 'Object.prototype', Object.prototype)
+      checkPrototype('function', 'Function.prototype', Function.prototype)
+
+      return result
+    }
+
+    function checkPrototype(name, prototypeName, prototype) {
+      const oldFuncs = protos[name]
+      const newFuncs = newProtos[name]
+      for(let fnName of newFuncs) {
+        if (!oldFuncs.includes(fnName)) {
+          const fullName = prototypeName + '.' + fnName
+          result.prototypeFunctions.push(fullName)
+          try {
+            if (prototype[fnName].call() === window) {
+              result.functionsReturnWindow.push(fullName)
+            }
+          } catch(err) {
+
+          }
+        }
+      }
+    }
+  </script>
+</body>
+
+</html>

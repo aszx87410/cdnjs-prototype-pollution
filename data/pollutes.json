@@ -1,0 +1,1907 @@
+{
+  "progress": 4290,
+  "items": [
+    {
+      "name": "survey-angular",
+      "version": "1.9.45",
+      "result": {
+        "prototypeFunctions": [
+          "String.prototype.format"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "aurelia-script",
+      "version": "1.5.2",
+      "result": {
+        "prototypeFunctions": [
+          "Array.prototype.__au_patched__"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "asciidoctor.js",
+      "version": "1.5.9",
+      "result": {
+        "prototypeFunctions": [
+          "Array.prototype.$$class",
+          "Array.prototype.$$is_array",
+          "Array.prototype.$initialize",
+          "Array.prototype.$&",
+          "Array.prototype.$|",
+          "Array.prototype.$*",
+          "Array.prototype.$+",
+          "Array.prototype.$-",
+          "Array.prototype.$<<",
+          "Array.prototype.$<=>",
+          "Array.prototype.$==",
+          "Array.prototype.$[]",
+          "Array.prototype.$[]=",
+          "Array.prototype.$any?",
+          "Array.prototype.$assoc",
+          "Array.prototype.$at",
+          "Array.prototype.$bsearch_index",
+          "Array.prototype.$bsearch",
+          "Array.prototype.$cycle",
+          "Array.prototype.$clear",
+          "Array.prototype.$count",
+          "Array.prototype.$initialize_copy",
+          "Array.prototype.$collect",
+          "Array.prototype.$collect!",
+          "Array.prototype.$combination",
+          "Array.prototype.$repeated_combination",
+          "Array.prototype.$compact",
+          "Array.prototype.$compact!",
+          "Array.prototype.$concat",
+          "Array.prototype.$delete",
+          "Array.prototype.$delete_at",
+          "Array.prototype.$delete_if",
+          "Array.prototype.$dig",
+          "Array.prototype.$drop",
+          "Array.prototype.$dup",
+          "Array.prototype.$each",
+          "Array.prototype.$each_index",
+          "Array.prototype.$empty?",
+          "Array.prototype.$eql?",
+          "Array.prototype.$fetch",
+          "Array.prototype.$fill",
+          "Array.prototype.$first",
+          "Array.prototype.$flatten",
+          "Array.prototype.$flatten!",
+          "Array.prototype.$hash",
+          "Array.prototype.$include?",
+          "Array.prototype.$index",
+          "Array.prototype.$insert",
+          "Array.prototype.$inspect",
+          "Array.prototype.$join",
+          "Array.prototype.$keep_if",
+          "Array.prototype.$last",
+          "Array.prototype.$length",
+          "Array.prototype.$map",
+          "Array.prototype.$map!",
+          "Array.prototype.$max",
+          "Array.prototype.$min",
+          "Array.prototype.$permutation",
+          "Array.prototype.$repeated_permutation",
+          "Array.prototype.$pop",
+          "Array.prototype.$product",
+          "Array.prototype.$push",
+          "Array.prototype.$append",
+          "Array.prototype.$rassoc",
+          "Array.prototype.$reject",
+          "Array.prototype.$reject!",
+          "Array.prototype.$replace",
+          "Array.prototype.$reverse",
+          "Array.prototype.$reverse!",
+          "Array.prototype.$reverse_each",
+          "Array.prototype.$rindex",
+          "Array.prototype.$rotate",
+          "Array.prototype.$rotate!",
+          "Array.prototype.$sample",
+          "Array.prototype.$select",
+          "Array.prototype.$select!",
+          "Array.prototype.$shift",
+          "Array.prototype.$size",
+          "Array.prototype.$shuffle",
+          "Array.prototype.$shuffle!",
+          "Array.prototype.$slice",
+          "Array.prototype.$slice!",
+          "Array.prototype.$sort",
+          "Array.prototype.$sort!",
+          "Array.prototype.$sort_by!",
+          "Array.prototype.$take",
+          "Array.prototype.$take_while",
+          "Array.prototype.$to_a",
+          "Array.prototype.$to_ary",
+          "Array.prototype.$to_h",
+          "Array.prototype.$to_s",
+          "Array.prototype.$transpose",
+          "Array.prototype.$uniq",
+          "Array.prototype.$uniq!",
+          "Array.prototype.$unshift",
+          "Array.prototype.$prepend",
+          "Array.prototype.$values_at",
+          "Array.prototype.$zip",
+          "Array.prototype.$instance_variables",
+          "Array.prototype.$pack",
+          "String.prototype.$$class",
+          "String.prototype.$$is_string",
+          "String.prototype.$$cast",
+          "String.prototype.$__id__",
+          "String.prototype.$object_id",
+          "String.prototype.$initialize",
+          "String.prototype.$%",
+          "String.prototype.$*",
+          "String.prototype.$+",
+          "String.prototype.$<=>",
+          "String.prototype.$==",
+          "String.prototype.$eql?",
+          "String.prototype.$===",
+          "String.prototype.$=~",
+          "String.prototype.$[]",
+          "String.prototype.$byteslice",
+          "String.prototype.$b",
+          "String.prototype.$capitalize",
+          "String.prototype.$casecmp",
+          "String.prototype.$casecmp?",
+          "String.prototype.$center",
+          "String.prototype.$chars",
+          "String.prototype.$chomp",
+          "String.prototype.$chop",
+          "String.prototype.$chr",
+          "String.prototype.$clone",
+          "String.prototype.$dup",
+          "String.prototype.$count",
+          "String.prototype.$delete",
+          "String.prototype.$delete_prefix",
+          "String.prototype.$delete_suffix",
+          "String.prototype.$downcase",
+          "String.prototype.$each_char",
+          "String.prototype.$each_line",
+          "String.prototype.$empty?",
+          "String.prototype.$end_with?",
+          "String.prototype.$equal?",
+          "String.prototype.$gsub",
+          "String.prototype.$hash",
+          "String.prototype.$hex",
+          "String.prototype.$include?",
+          "String.prototype.$index",
+          "String.prototype.$inspect",
+          "String.prototype.$intern",
+          "String.prototype.$lines",
+          "String.prototype.$length",
+          "String.prototype.$ljust",
+          "String.prototype.$lstrip",
+          "String.prototype.$ascii_only?",
+          "String.prototype.$match",
+          "String.prototype.$match?",
+          "String.prototype.$next",
+          "String.prototype.$oct",
+          "String.prototype.$ord",
+          "String.prototype.$partition",
+          "String.prototype.$reverse",
+          "String.prototype.$rindex",
+          "String.prototype.$rjust",
+          "String.prototype.$rpartition",
+          "String.prototype.$rstrip",
+          "String.prototype.$scan",
+          "String.prototype.$size",
+          "String.prototype.$slice",
+          "String.prototype.$split",
+          "String.prototype.$squeeze",
+          "String.prototype.$start_with?",
+          "String.prototype.$strip",
+          "String.prototype.$sub",
+          "String.prototype.$succ",
+          "String.prototype.$sum",
+          "String.prototype.$swapcase",
+          "String.prototype.$to_f",
+          "String.prototype.$to_i",
+          "String.prototype.$to_proc",
+          "String.prototype.$to_s",
+          "String.prototype.$to_str",
+          "String.prototype.$to_sym",
+          "String.prototype.$tr",
+          "String.prototype.$tr_s",
+          "String.prototype.$upcase",
+          "String.prototype.$upto",
+          "String.prototype.$instance_variables",
+          "String.prototype.$unicode_normalize",
+          "String.prototype.$unicode_normalized?",
+          "String.prototype.$unpack",
+          "String.prototype.$unpack1",
+          "String.prototype.encoding",
+          "String.prototype.$encoding",
+          "String.prototype.$bytes",
+          "String.prototype.$bytesize",
+          "String.prototype.$each_byte",
+          "String.prototype.$encode",
+          "String.prototype.$force_encoding",
+          "String.prototype.$getbyte",
+          "String.prototype.$valid_encoding?",
+          "String.prototype.$to_c",
+          "String.prototype.$to_r",
+          "String.prototype.$<<",
+          "String.prototype.$capitalize!",
+          "String.prototype.$chomp!",
+          "String.prototype.$chop!",
+          "String.prototype.$downcase!",
+          "String.prototype.$gsub!",
+          "String.prototype.$lstrip!",
+          "String.prototype.$next!",
+          "String.prototype.$reverse!",
+          "String.prototype.$slice!",
+          "String.prototype.$squeeze!",
+          "String.prototype.$strip!",
+          "String.prototype.$sub!",
+          "String.prototype.$succ!",
+          "String.prototype.$swapcase!",
+          "String.prototype.$tr!",
+          "String.prototype.$tr_s!",
+          "String.prototype.$upcase!",
+          "String.prototype.$prepend",
+          "String.prototype.$[]=",
+          "String.prototype.$clear",
+          "String.prototype.$encode!",
+          "String.prototype.$unicode_normalize!",
+          "Number.prototype.$$class",
+          "Number.prototype.$$is_number",
+          "Function.prototype.$$class",
+          "Function.prototype.$$is_proc",
+          "Function.prototype.$$is_lambda",
+          "Function.prototype.$call",
+          "Function.prototype.$[]",
+          "Function.prototype.$===",
+          "Function.prototype.$yield",
+          "Function.prototype.$to_proc",
+          "Function.prototype.$lambda?",
+          "Function.prototype.$arity",
+          "Function.prototype.$source_location",
+          "Function.prototype.$binding",
+          "Function.prototype.$parameters",
+          "Function.prototype.$curry",
+          "Function.prototype.$dup",
+          "Function.prototype.$clone"
+        ],
+        "functionsReturnWindow": [
+          "Array.prototype.$concat",
+          "Array.prototype.$push",
+          "Array.prototype.$append",
+          "Array.prototype.$rotate!",
+          "Array.prototype.$shuffle!",
+          "Array.prototype.$sort",
+          "Array.prototype.$to_a",
+          "Array.prototype.$to_ary",
+          "Array.prototype.$unshift",
+          "Array.prototype.$prepend",
+          "String.prototype.$initialize",
+          "String.prototype.$chomp",
+          "String.prototype.$force_encoding",
+          "Function.prototype.$to_proc"
+        ]
+      }
+    },
+    {
+      "name": "jquery-ajaxy",
+      "version": "1.6.1",
+      "result": {
+        "prototypeFunctions": [
+          "String.prototype.strip",
+          "String.prototype.stripLeft",
+          "String.prototype.stripRight",
+          "String.prototype.toInt",
+          "String.prototype.wrap",
+          "String.prototype.wrapSelection",
+          "String.prototype.toSlug",
+          "String.prototype.queryStringToJSON"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "angular-vertxbus",
+      "version": "6.4.1",
+      "result": {
+        "prototypeFunctions": [
+          "Array.prototype.flatten",
+          "String.prototype.padLeft",
+          "String.prototype.padRight"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "ajv-async",
+      "version": "1.0.1",
+      "result": {
+        "prototypeFunctions": [
+          "Function.prototype.$asyncbind",
+          "Function.prototype.$asyncspawn"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "fs-tpp-api",
+      "version": "2.4.4",
+      "result": {
+        "prototypeFunctions": [
+          "Array.prototype.flatten",
+          "String.prototype.padLeft",
+          "String.prototype.padRight"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "jquery-ui-bootstrap",
+      "version": "0.5pre",
+      "result": {
+        "prototypeFunctions": [
+          "Number.prototype._dateElement",
+          "Number.prototype.fromNow",
+          "Number.prototype.ago",
+          "Number.prototype.milliseconds",
+          "Number.prototype.millisecond",
+          "Number.prototype.seconds",
+          "Number.prototype.second",
+          "Number.prototype.minutes",
+          "Number.prototype.minute",
+          "Number.prototype.hours",
+          "Number.prototype.hour",
+          "Number.prototype.days",
+          "Number.prototype.day",
+          "Number.prototype.weeks",
+          "Number.prototype.week",
+          "Number.prototype.months",
+          "Number.prototype.month",
+          "Number.prototype.years",
+          "Number.prototype.year"
+        ],
+        "functionsReturnWindow": [
+          "Number.prototype.milliseconds",
+          "Number.prototype.millisecond",
+          "Number.prototype.seconds",
+          "Number.prototype.second",
+          "Number.prototype.minutes",
+          "Number.prototype.minute",
+          "Number.prototype.hours",
+          "Number.prototype.hour",
+          "Number.prototype.days",
+          "Number.prototype.day",
+          "Number.prototype.weeks",
+          "Number.prototype.week",
+          "Number.prototype.months",
+          "Number.prototype.month",
+          "Number.prototype.years",
+          "Number.prototype.year"
+        ]
+      }
+    },
+    {
+      "name": "bootstrap-calendar",
+      "version": "0.2.5",
+      "result": {
+        "prototypeFunctions": [
+          "String.prototype.format",
+          "String.prototype.formatNum"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "blissfuljs",
+      "version": "1.0.6",
+      "result": {
+        "prototypeFunctions": [
+          "Array.prototype._"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "js-bson",
+      "version": "2.0.8",
+      "result": {
+        "prototypeFunctions": [
+          "Array.prototype.flatten",
+          "String.prototype.padLeft",
+          "String.prototype.padRight"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "blendui",
+      "version": "0.0.4",
+      "result": {
+        "prototypeFunctions": [
+          "Array.prototype.contains"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "core-js",
+      "version": "3.24.1",
+      "result": {
+        "prototypeFunctions": [
+          "Array.prototype.group",
+          "Array.prototype.groupBy",
+          "Array.prototype.groupByToMap",
+          "Array.prototype.groupToMap",
+          "Array.prototype.lastIndex",
+          "Array.prototype.lastItem",
+          "Array.prototype.toReversed",
+          "Array.prototype.toSorted",
+          "Array.prototype.toSpliced",
+          "Array.prototype.with",
+          "Array.prototype.filterOut",
+          "Array.prototype.filterReject",
+          "Array.prototype.uniqueBy",
+          "String.prototype.codePoints",
+          "Function.prototype.unThis"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "oidc-client",
+      "version": "1.11.5",
+      "result": {
+        "prototypeFunctions": [
+          "Array.prototype.flatten",
+          "String.prototype.padLeft",
+          "String.prototype.padRight"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "custombox",
+      "version": "4.0.3",
+      "result": {
+        "prototypeFunctions": [
+          "String.prototype.padLeft",
+          "String.prototype.padRight"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "carto.js",
+      "version": "4.2.2",
+      "result": {
+        "prototypeFunctions": [
+          "String.prototype.getClass$",
+          "String.prototype.typeId$"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "Colors.js",
+      "version": "1.2.4",
+      "result": {
+        "prototypeFunctions": [
+          "Number.prototype.round"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "cignium-hypermedia-client",
+      "version": "1.35.0",
+      "result": {
+        "prototypeFunctions": [
+          "Array.prototype.flatten",
+          "String.prototype.padLeft",
+          "String.prototype.padRight"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "ext-core",
+      "version": "3.1.0",
+      "result": {
+        "prototypeFunctions": [
+          "Array.prototype.remove",
+          "Function.prototype.createInterceptor",
+          "Function.prototype.createCallback",
+          "Function.prototype.createDelegate",
+          "Function.prototype.defer"
+        ],
+        "functionsReturnWindow": [
+          "Function.prototype.createInterceptor"
+        ]
+      }
+    },
+    {
+      "name": "d3plus",
+      "version": "2.0.1",
+      "result": {
+        "prototypeFunctions": [
+          "Array.prototype.flatten"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "deb.js",
+      "version": "0.0.2",
+      "result": {
+        "prototypeFunctions": [
+          "Function.prototype.debc",
+          "Function.prototype.deb"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "d3fc",
+      "version": "11.0.0",
+      "result": {
+        "prototypeFunctions": [
+          "String.prototype.padLeft",
+          "String.prototype.padRight"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "defiant.js",
+      "version": "2.2.7",
+      "result": {
+        "prototypeFunctions": [
+          "String.prototype.fill",
+          "String.prototype.xTransform"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "qoopido.demand",
+      "version": "8.0.2",
+      "result": {
+        "prototypeFunctions": [
+          "Function.prototype.extends"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "datejs",
+      "version": "1.0",
+      "result": {
+        "prototypeFunctions": [
+          "Number.prototype._dateElement",
+          "Number.prototype.after",
+          "Number.prototype.fromNow",
+          "Number.prototype.before",
+          "Number.prototype.ago",
+          "Number.prototype.milliseconds",
+          "Number.prototype.millisecond",
+          "Number.prototype.seconds",
+          "Number.prototype.second",
+          "Number.prototype.minutes",
+          "Number.prototype.minute",
+          "Number.prototype.hours",
+          "Number.prototype.hour",
+          "Number.prototype.days",
+          "Number.prototype.day",
+          "Number.prototype.weeks",
+          "Number.prototype.week",
+          "Number.prototype.months",
+          "Number.prototype.month",
+          "Number.prototype.years",
+          "Number.prototype.year"
+        ],
+        "functionsReturnWindow": [
+          "Number.prototype.milliseconds",
+          "Number.prototype.millisecond",
+          "Number.prototype.seconds",
+          "Number.prototype.second",
+          "Number.prototype.minutes",
+          "Number.prototype.minute",
+          "Number.prototype.hours",
+          "Number.prototype.hour",
+          "Number.prototype.days",
+          "Number.prototype.day",
+          "Number.prototype.weeks",
+          "Number.prototype.week",
+          "Number.prototype.months",
+          "Number.prototype.month",
+          "Number.prototype.years",
+          "Number.prototype.year"
+        ]
+      }
+    },
+    {
+      "name": "tui-editor",
+      "version": "1.4.10",
+      "result": {
+        "prototypeFunctions": [
+          "Array.prototype.flatten",
+          "String.prototype.padLeft",
+          "String.prototype.padRight"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "Embetty",
+      "version": "3.0.8",
+      "result": {
+        "prototypeFunctions": [
+          "Array.prototype.filterOut",
+          "Array.prototype.lastIndex",
+          "Array.prototype.lastItem",
+          "Array.prototype.uniqueBy",
+          "String.prototype.codePoints"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "eddy",
+      "version": "0.7.0",
+      "result": {
+        "prototypeFunctions": [
+          "Array.prototype.emit",
+          "Array.prototype.expect",
+          "Array.prototype.off",
+          "Array.prototype.on",
+          "Array.prototype.once",
+          "Array.prototype.trigger",
+          "Array.prototype.when",
+          "Object.prototype.boundTo",
+          "Object.prototype.emit",
+          "Object.prototype.expect",
+          "Object.prototype.listeners",
+          "Object.prototype.off",
+          "Object.prototype.on",
+          "Object.prototype.once",
+          "Object.prototype.trigger",
+          "Object.prototype.when"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "extjs",
+      "version": "6.2.0",
+      "result": {
+        "prototypeFunctions": [
+          "Function.prototype.$isFunction"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "json-forms",
+      "version": "1.6.3",
+      "result": {
+        "prototypeFunctions": [
+          "String.prototype.format"
+        ],
+        "functionsReturnWindow": [
+          "String.prototype.format"
+        ]
+      }
+    },
+    {
+      "name": "leaflet.freedraw",
+      "version": "2.0.1",
+      "result": {
+        "prototypeFunctions": [
+          "String.prototype.padLeft",
+          "String.prototype.padRight"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "simple-gallery-js",
+      "version": "1.0.3",
+      "result": {
+        "prototypeFunctions": [
+          "Array.prototype.swap"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "highcharts",
+      "version": "10.2.0",
+      "result": {
+        "prototypeFunctions": [
+          "Array.prototype.Symbol(Symbol.unscopables)_b.k32ry92ogv"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "inheritance-js",
+      "version": "0.4.12",
+      "result": {
+        "prototypeFunctions": [
+          "Object.prototype.mix",
+          "Object.prototype.mixDeep"
+        ],
+        "functionsReturnWindow": [
+          "Object.prototype.mix",
+          "Object.prototype.mixDeep"
+        ]
+      }
+    },
+    {
+      "name": "keras-js",
+      "version": "0.3.0",
+      "result": {
+        "prototypeFunctions": [
+          "String.prototype.padLeft",
+          "String.prototype.padRight"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "survey-jquery",
+      "version": "1.9.45",
+      "result": {
+        "prototypeFunctions": [
+          "String.prototype.format"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "jo",
+      "version": "0.4.1",
+      "result": {
+        "prototypeFunctions": [
+          "Function.prototype.extend"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "jslite",
+      "version": "1.1.12",
+      "result": {
+        "prototypeFunctions": [
+          "Array.prototype.remove"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "survey-knockout",
+      "version": "1.9.45",
+      "result": {
+        "prototypeFunctions": [
+          "String.prototype.format"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "kwargsjs",
+      "version": "1.0.1",
+      "result": {
+        "prototypeFunctions": [
+          "Function.prototype.kwargs"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "lobipanel",
+      "version": "1.0.6",
+      "result": {
+        "prototypeFunctions": [
+          "String.prototype.getCss",
+          "String.prototype.toCamel",
+          "String.prototype.toDash",
+          "String.prototype.toUnderscore",
+          "Number.prototype.isBetween"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "metro",
+      "version": "4.4.3",
+      "result": {
+        "prototypeFunctions": [
+          "Array.prototype.shuffle",
+          "Array.prototype.clone",
+          "Array.prototype.unique",
+          "Array.prototype.contains",
+          "String.prototype.camelCase",
+          "String.prototype.dashedName",
+          "String.prototype.shuffle",
+          "String.prototype.capitalize",
+          "String.prototype.contains",
+          "String.prototype.toDate",
+          "String.prototype.toArray",
+          "Number.prototype.format"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "melonjs",
+      "version": "1.0.1",
+      "result": {
+        "prototypeFunctions": [
+          "Array.prototype.remove",
+          "String.prototype.isNumeric",
+          "String.prototype.isBoolean",
+          "String.prototype.contains",
+          "String.prototype.toHex",
+          "Number.prototype.clamp",
+          "Number.prototype.random",
+          "Number.prototype.round",
+          "Number.prototype.toHex",
+          "Number.prototype.sign",
+          "Number.prototype.degToRad",
+          "Number.prototype.radToDeg",
+          "Function.prototype.defer"
+        ],
+        "functionsReturnWindow": [
+          "Array.prototype.remove"
+        ]
+      }
+    },
+    {
+      "name": "mootools",
+      "version": "1.6.0",
+      "result": {
+        "prototypeFunctions": [
+          "Array.prototype.$family",
+          "Array.prototype.$constructor",
+          "Array.prototype.each",
+          "Array.prototype.clone",
+          "Array.prototype.clean",
+          "Array.prototype.invoke",
+          "Array.prototype.associate",
+          "Array.prototype.link",
+          "Array.prototype.contains",
+          "Array.prototype.append",
+          "Array.prototype.getLast",
+          "Array.prototype.getRandom",
+          "Array.prototype.include",
+          "Array.prototype.combine",
+          "Array.prototype.erase",
+          "Array.prototype.empty",
+          "Array.prototype.flatten",
+          "Array.prototype.pick",
+          "Array.prototype.hexToRgb",
+          "Array.prototype.rgbToHex",
+          "Array.prototype.extend",
+          "String.prototype.$family",
+          "String.prototype.$constructor",
+          "String.prototype.contains",
+          "String.prototype.test",
+          "String.prototype.clean",
+          "String.prototype.camelCase",
+          "String.prototype.hyphenate",
+          "String.prototype.capitalize",
+          "String.prototype.escapeRegExp",
+          "String.prototype.toInt",
+          "String.prototype.toFloat",
+          "String.prototype.hexToRgb",
+          "String.prototype.rgbToHex",
+          "String.prototype.substitute",
+          "String.prototype.stripScripts",
+          "Number.prototype.$family",
+          "Number.prototype.$constructor",
+          "Number.prototype.limit",
+          "Number.prototype.round",
+          "Number.prototype.times",
+          "Number.prototype.toFloat",
+          "Number.prototype.toInt",
+          "Number.prototype.each",
+          "Number.prototype.abs",
+          "Number.prototype.acos",
+          "Number.prototype.asin",
+          "Number.prototype.atan",
+          "Number.prototype.atan2",
+          "Number.prototype.ceil",
+          "Number.prototype.cos",
+          "Number.prototype.exp",
+          "Number.prototype.floor",
+          "Number.prototype.log",
+          "Number.prototype.max",
+          "Number.prototype.min",
+          "Number.prototype.pow",
+          "Number.prototype.sin",
+          "Number.prototype.sqrt",
+          "Number.prototype.tan",
+          "Function.prototype.overloadSetter",
+          "Function.prototype.overloadGetter",
+          "Function.prototype.extend",
+          "Function.prototype.implement",
+          "Function.prototype.hide",
+          "Function.prototype.protect",
+          "Function.prototype.$family",
+          "Function.prototype.$constructor",
+          "Function.prototype.attempt",
+          "Function.prototype.pass",
+          "Function.prototype.delay",
+          "Function.prototype.periodical",
+          "Function.prototype.create",
+          "Function.prototype.bindWithEvent",
+          "Function.prototype.run"
+        ],
+        "functionsReturnWindow": [
+          "Array.prototype.erase",
+          "Array.prototype.empty",
+          "Function.prototype.extend",
+          "Function.prototype.implement",
+          "Function.prototype.hide",
+          "Function.prototype.protect"
+        ]
+      }
+    },
+    {
+      "name": "monet",
+      "version": "0.9.3",
+      "result": {
+        "prototypeFunctions": [
+          "Array.prototype.list",
+          "Object.prototype.cons",
+          "Object.prototype.just",
+          "Object.prototype.some",
+          "Object.prototype.success",
+          "Object.prototype.fail",
+          "Object.prototype.right",
+          "Object.prototype.left",
+          "Function.prototype.curry",
+          "Function.prototype.compose",
+          "Function.prototype.map",
+          "Function.prototype.andThen",
+          "Function.prototype.io",
+          "Function.prototype.io1",
+          "Function.prototype.reader"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "mo",
+      "version": "1.7.3",
+      "result": {
+        "prototypeFunctions": [
+          "String.prototype.contains"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "NicEdit",
+      "version": "0.93",
+      "result": {
+        "prototypeFunctions": [
+          "Function.prototype.closure",
+          "Function.prototype.closureListener"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "qoopido.nucleus",
+      "version": "3.2.15",
+      "result": {
+        "prototypeFunctions": [
+          "Function.prototype.extends"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "opal",
+      "version": "0.3.43",
+      "result": {
+        "prototypeFunctions": [
+          "Array.prototype._klass",
+          "Array.prototype.$initialize",
+          "Array.prototype.$==",
+          "Array.prototype.$__send__",
+          "Array.prototype.$eql?",
+          "Array.prototype.$equal?",
+          "Array.prototype.$instance_eval",
+          "Array.prototype.$instance_exec",
+          "Array.prototype.$method_missing",
+          "Array.prototype.$=~",
+          "Array.prototype.$===",
+          "Array.prototype.$as_json",
+          "Array.prototype.$method",
+          "Array.prototype.$methods",
+          "Array.prototype.$Array",
+          "Array.prototype.$class",
+          "Array.prototype.$define_singleton_method",
+          "Array.prototype.$dup",
+          "Array.prototype.$enum_for",
+          "Array.prototype.$extend",
+          "Array.prototype.$format",
+          "Array.prototype.$hash",
+          "Array.prototype.$inspect",
+          "Array.prototype.$instance_of?",
+          "Array.prototype.$instance_variable_defined?",
+          "Array.prototype.$instance_variable_get",
+          "Array.prototype.$instance_variable_set",
+          "Array.prototype.$instance_variables",
+          "Array.prototype.$is_a?",
+          "Array.prototype.$kind_of?",
+          "Array.prototype.$lambda",
+          "Array.prototype.$loop",
+          "Array.prototype.$nil?",
+          "Array.prototype.$object_id",
+          "Array.prototype.$printf",
+          "Array.prototype.$proc",
+          "Array.prototype.$puts",
+          "Array.prototype.$p",
+          "Array.prototype.$print",
+          "Array.prototype.$raise",
+          "Array.prototype.$rand",
+          "Array.prototype.$respond_to?",
+          "Array.prototype.$send",
+          "Array.prototype.$singleton_class",
+          "Array.prototype.$sprintf",
+          "Array.prototype.$String",
+          "Array.prototype.$tap",
+          "Array.prototype.$to_json",
+          "Array.prototype.$to_proc",
+          "Array.prototype.$to_s",
+          "Array.prototype.$all?",
+          "Array.prototype.$any?",
+          "Array.prototype.$collect",
+          "Array.prototype.$reduce",
+          "Array.prototype.$count",
+          "Array.prototype.$detect",
+          "Array.prototype.$drop",
+          "Array.prototype.$drop_while",
+          "Array.prototype.$each_slice",
+          "Array.prototype.$each_with_index",
+          "Array.prototype.$each_with_object",
+          "Array.prototype.$entries",
+          "Array.prototype.$find",
+          "Array.prototype.$find_all",
+          "Array.prototype.$find_index",
+          "Array.prototype.$first",
+          "Array.prototype.$grep",
+          "Array.prototype.$group_by",
+          "Array.prototype.$map",
+          "Array.prototype.$select",
+          "Array.prototype.$take",
+          "Array.prototype.$to_a",
+          "Array.prototype.$inject",
+          "Array.prototype._isArray",
+          "Array.prototype.$&",
+          "Array.prototype.$*",
+          "Array.prototype.$+",
+          "Array.prototype.$-",
+          "Array.prototype.$<<",
+          "Array.prototype.$<=>",
+          "Array.prototype.$[]",
+          "Array.prototype.$[]=",
+          "Array.prototype.$assoc",
+          "Array.prototype.$at",
+          "Array.prototype.$clear",
+          "Array.prototype.$clone",
+          "Array.prototype.$collect!",
+          "Array.prototype.$compact",
+          "Array.prototype.$compact!",
+          "Array.prototype.$concat",
+          "Array.prototype.$delete",
+          "Array.prototype.$delete_at",
+          "Array.prototype.$delete_if",
+          "Array.prototype.$each",
+          "Array.prototype.$each_index",
+          "Array.prototype.$empty?",
+          "Array.prototype.$fetch",
+          "Array.prototype.$fill",
+          "Array.prototype.$flatten",
+          "Array.prototype.$flatten!",
+          "Array.prototype.$include?",
+          "Array.prototype.$index",
+          "Array.prototype.$insert",
+          "Array.prototype.$join",
+          "Array.prototype.$keep_if",
+          "Array.prototype.$last",
+          "Array.prototype.$length",
+          "Array.prototype.$map!",
+          "Array.prototype.$pop",
+          "Array.prototype.$push",
+          "Array.prototype.$rassoc",
+          "Array.prototype.$reject",
+          "Array.prototype.$reject!",
+          "Array.prototype.$replace",
+          "Array.prototype.$reverse",
+          "Array.prototype.$reverse!",
+          "Array.prototype.$reverse_each",
+          "Array.prototype.$rindex",
+          "Array.prototype.$select!",
+          "Array.prototype.$shift",
+          "Array.prototype.$size",
+          "Array.prototype.$shuffle",
+          "Array.prototype.$slice",
+          "Array.prototype.$slice!",
+          "Array.prototype.$sort",
+          "Array.prototype.$sort!",
+          "Array.prototype.$take_while",
+          "Array.prototype.$to_ary",
+          "Array.prototype.$to_native",
+          "Array.prototype.$uniq",
+          "Array.prototype.$uniq!",
+          "Array.prototype.$unshift",
+          "Array.prototype.$zip",
+          "String.prototype._klass",
+          "String.prototype.$initialize",
+          "String.prototype.$==",
+          "String.prototype.$__send__",
+          "String.prototype.$eql?",
+          "String.prototype.$equal?",
+          "String.prototype.$instance_eval",
+          "String.prototype.$instance_exec",
+          "String.prototype.$method_missing",
+          "String.prototype.$=~",
+          "String.prototype.$===",
+          "String.prototype.$as_json",
+          "String.prototype.$method",
+          "String.prototype.$methods",
+          "String.prototype.$Array",
+          "String.prototype.$class",
+          "String.prototype.$define_singleton_method",
+          "String.prototype.$dup",
+          "String.prototype.$enum_for",
+          "String.prototype.$extend",
+          "String.prototype.$format",
+          "String.prototype.$hash",
+          "String.prototype.$inspect",
+          "String.prototype.$instance_of?",
+          "String.prototype.$instance_variable_defined?",
+          "String.prototype.$instance_variable_get",
+          "String.prototype.$instance_variable_set",
+          "String.prototype.$instance_variables",
+          "String.prototype.$is_a?",
+          "String.prototype.$kind_of?",
+          "String.prototype.$lambda",
+          "String.prototype.$loop",
+          "String.prototype.$nil?",
+          "String.prototype.$object_id",
+          "String.prototype.$printf",
+          "String.prototype.$proc",
+          "String.prototype.$puts",
+          "String.prototype.$p",
+          "String.prototype.$print",
+          "String.prototype.$raise",
+          "String.prototype.$rand",
+          "String.prototype.$respond_to?",
+          "String.prototype.$send",
+          "String.prototype.$singleton_class",
+          "String.prototype.$sprintf",
+          "String.prototype.$String",
+          "String.prototype.$tap",
+          "String.prototype.$to_json",
+          "String.prototype.$to_proc",
+          "String.prototype.$to_s",
+          "String.prototype.$<",
+          "String.prototype.$<=",
+          "String.prototype.$>",
+          "String.prototype.$>=",
+          "String.prototype.$between?",
+          "String.prototype._isString",
+          "String.prototype.$%",
+          "String.prototype.$*",
+          "String.prototype.$+",
+          "String.prototype.$<=>",
+          "String.prototype.$[]",
+          "String.prototype.$capitalize",
+          "String.prototype.$casecmp",
+          "String.prototype.$chars",
+          "String.prototype.$chomp",
+          "String.prototype.$chop",
+          "String.prototype.$chr",
+          "String.prototype.$count",
+          "String.prototype.$dasherize",
+          "String.prototype.$demodulize",
+          "String.prototype.$downcase",
+          "String.prototype.$each_char",
+          "String.prototype.$each_line",
+          "String.prototype.$empty?",
+          "String.prototype.$end_with?",
+          "String.prototype.$getbyte",
+          "String.prototype.$gsub",
+          "String.prototype.$hex",
+          "String.prototype.$include?",
+          "String.prototype.$index",
+          "String.prototype.$intern",
+          "String.prototype.$lines",
+          "String.prototype.$length",
+          "String.prototype.$ljust",
+          "String.prototype.$lstrip",
+          "String.prototype.$match",
+          "String.prototype.$next",
+          "String.prototype.$ord",
+          "String.prototype.$partition",
+          "String.prototype.$reverse",
+          "String.prototype.$rstrip",
+          "String.prototype.$size",
+          "String.prototype.$slice",
+          "String.prototype.$split",
+          "String.prototype.$start_with?",
+          "String.prototype.$strip",
+          "String.prototype.$sub",
+          "String.prototype.$succ",
+          "String.prototype.$sum",
+          "String.prototype.$swapcase",
+          "String.prototype.$to_a",
+          "String.prototype.$to_f",
+          "String.prototype.$to_i",
+          "String.prototype.$to_str",
+          "String.prototype.$to_sym",
+          "String.prototype.$underscore",
+          "String.prototype.$upcase",
+          "Number.prototype._klass",
+          "Number.prototype.$initialize",
+          "Number.prototype.$==",
+          "Number.prototype.$__send__",
+          "Number.prototype.$eql?",
+          "Number.prototype.$equal?",
+          "Number.prototype.$instance_eval",
+          "Number.prototype.$instance_exec",
+          "Number.prototype.$method_missing",
+          "Number.prototype.$=~",
+          "Number.prototype.$===",
+          "Number.prototype.$as_json",
+          "Number.prototype.$method",
+          "Number.prototype.$methods",
+          "Number.prototype.$Array",
+          "Number.prototype.$class",
+          "Number.prototype.$define_singleton_method",
+          "Number.prototype.$dup",
+          "Number.prototype.$enum_for",
+          "Number.prototype.$extend",
+          "Number.prototype.$format",
+          "Number.prototype.$hash",
+          "Number.prototype.$inspect",
+          "Number.prototype.$instance_of?",
+          "Number.prototype.$instance_variable_defined?",
+          "Number.prototype.$instance_variable_get",
+          "Number.prototype.$instance_variable_set",
+          "Number.prototype.$instance_variables",
+          "Number.prototype.$is_a?",
+          "Number.prototype.$kind_of?",
+          "Number.prototype.$lambda",
+          "Number.prototype.$loop",
+          "Number.prototype.$nil?",
+          "Number.prototype.$object_id",
+          "Number.prototype.$printf",
+          "Number.prototype.$proc",
+          "Number.prototype.$puts",
+          "Number.prototype.$p",
+          "Number.prototype.$print",
+          "Number.prototype.$raise",
+          "Number.prototype.$rand",
+          "Number.prototype.$respond_to?",
+          "Number.prototype.$send",
+          "Number.prototype.$singleton_class",
+          "Number.prototype.$sprintf",
+          "Number.prototype.$String",
+          "Number.prototype.$tap",
+          "Number.prototype.$to_json",
+          "Number.prototype.$to_proc",
+          "Number.prototype.$to_s",
+          "Number.prototype.$<",
+          "Number.prototype.$<=",
+          "Number.prototype.$>",
+          "Number.prototype.$>=",
+          "Number.prototype.$between?",
+          "Number.prototype._isNumber",
+          "Number.prototype.$+",
+          "Number.prototype.$-",
+          "Number.prototype.$*",
+          "Number.prototype.$/",
+          "Number.prototype.$%",
+          "Number.prototype.$&",
+          "Number.prototype.$|",
+          "Number.prototype.$^",
+          "Number.prototype.$<<",
+          "Number.prototype.$>>",
+          "Number.prototype.$+@",
+          "Number.prototype.$-@",
+          "Number.prototype.$~",
+          "Number.prototype.$**",
+          "Number.prototype.$<=>",
+          "Number.prototype.$abs",
+          "Number.prototype.$ceil",
+          "Number.prototype.$chr",
+          "Number.prototype.$downto",
+          "Number.prototype.$even?",
+          "Number.prototype.$floor",
+          "Number.prototype.$integer?",
+          "Number.prototype.$magnitude",
+          "Number.prototype.$modulo",
+          "Number.prototype.$next",
+          "Number.prototype.$nonzero?",
+          "Number.prototype.$odd?",
+          "Number.prototype.$ord",
+          "Number.prototype.$pred",
+          "Number.prototype.$succ",
+          "Number.prototype.$times",
+          "Number.prototype.$to_f",
+          "Number.prototype.$to_i",
+          "Number.prototype.$upto",
+          "Number.prototype.$zero?",
+          "Function.prototype.$allocate",
+          "Function.prototype.$alias_method",
+          "Function.prototype.$ancestors",
+          "Function.prototype.$append_features",
+          "Function.prototype.$attr_accessor",
+          "Function.prototype.$attr_reader",
+          "Function.prototype.$attr_writer",
+          "Function.prototype.$attr",
+          "Function.prototype.$const_defined?",
+          "Function.prototype.$const_get",
+          "Function.prototype.$const_missing",
+          "Function.prototype.$const_set",
+          "Function.prototype.$define_method",
+          "Function.prototype.$include",
+          "Function.prototype.$instance_methods",
+          "Function.prototype.$included",
+          "Function.prototype.$inherited",
+          "Function.prototype.$module_eval",
+          "Function.prototype.$class_eval",
+          "Function.prototype.$method_defined?",
+          "Function.prototype.$module_function",
+          "Function.prototype.$name",
+          "Function.prototype.$new",
+          "Function.prototype.$public",
+          "Function.prototype.$private",
+          "Function.prototype.$protected",
+          "Function.prototype.$superclass",
+          "Function.prototype.$undef_method",
+          "Function.prototype._klass",
+          "Function.prototype.$initialize",
+          "Function.prototype.$==",
+          "Function.prototype.$__send__",
+          "Function.prototype.$eql?",
+          "Function.prototype.$equal?",
+          "Function.prototype.$instance_eval",
+          "Function.prototype.$instance_exec",
+          "Function.prototype.$method_missing",
+          "Function.prototype.$=~",
+          "Function.prototype.$===",
+          "Function.prototype.$as_json",
+          "Function.prototype.$method",
+          "Function.prototype.$methods",
+          "Function.prototype.$Array",
+          "Function.prototype.$class",
+          "Function.prototype.$define_singleton_method",
+          "Function.prototype.$dup",
+          "Function.prototype.$enum_for",
+          "Function.prototype.$extend",
+          "Function.prototype.$format",
+          "Function.prototype.$hash",
+          "Function.prototype.$inspect",
+          "Function.prototype.$instance_of?",
+          "Function.prototype.$instance_variable_defined?",
+          "Function.prototype.$instance_variable_get",
+          "Function.prototype.$instance_variable_set",
+          "Function.prototype.$instance_variables",
+          "Function.prototype.$is_a?",
+          "Function.prototype.$kind_of?",
+          "Function.prototype.$lambda",
+          "Function.prototype.$loop",
+          "Function.prototype.$nil?",
+          "Function.prototype.$object_id",
+          "Function.prototype.$printf",
+          "Function.prototype.$proc",
+          "Function.prototype.$puts",
+          "Function.prototype.$p",
+          "Function.prototype.$print",
+          "Function.prototype.$raise",
+          "Function.prototype.$rand",
+          "Function.prototype.$respond_to?",
+          "Function.prototype.$send",
+          "Function.prototype.$singleton_class",
+          "Function.prototype.$sprintf",
+          "Function.prototype.$String",
+          "Function.prototype.$tap",
+          "Function.prototype.$to_json",
+          "Function.prototype.$to_proc",
+          "Function.prototype.$to_s",
+          "Function.prototype._isProc",
+          "Function.prototype.is_lambda",
+          "Function.prototype.$call",
+          "Function.prototype.$[]",
+          "Function.prototype.$lambda?",
+          "Function.prototype.$arity"
+        ],
+        "functionsReturnWindow": [
+          "Array.prototype.$extend",
+          "Array.prototype.$to_proc",
+          "Array.prototype.$to_a",
+          "Array.prototype.$collect!",
+          "Array.prototype.$delete_if",
+          "Array.prototype.$each_index",
+          "Array.prototype.$fill",
+          "Array.prototype.$insert",
+          "Array.prototype.$keep_if",
+          "Array.prototype.$map!",
+          "Array.prototype.$push",
+          "Array.prototype.$shuffle",
+          "Array.prototype.$to_ary",
+          "Array.prototype.$unshift",
+          "String.prototype.$as_json",
+          "String.prototype.$extend",
+          "String.prototype.$intern",
+          "String.prototype.$to_sym",
+          "Number.prototype.$as_json",
+          "Number.prototype.$extend",
+          "Number.prototype.$to_proc",
+          "Number.prototype.$downto",
+          "Number.prototype.$nonzero?",
+          "Number.prototype.$ord",
+          "Number.prototype.$times",
+          "Function.prototype.$include",
+          "Function.prototype.$module_function",
+          "Function.prototype.$extend",
+          "Function.prototype.$to_proc"
+        ]
+      }
+    },
+    {
+      "name": "prototype",
+      "version": "1.7.3",
+      "result": {
+        "prototypeFunctions": [
+          "Array.prototype.each",
+          "Array.prototype.eachSlice",
+          "Array.prototype.all",
+          "Array.prototype.any",
+          "Array.prototype.collect",
+          "Array.prototype.detect",
+          "Array.prototype.findAll",
+          "Array.prototype.select",
+          "Array.prototype.grep",
+          "Array.prototype.include",
+          "Array.prototype.member",
+          "Array.prototype.inGroupsOf",
+          "Array.prototype.inject",
+          "Array.prototype.invoke",
+          "Array.prototype.max",
+          "Array.prototype.min",
+          "Array.prototype.partition",
+          "Array.prototype.pluck",
+          "Array.prototype.reject",
+          "Array.prototype.sortBy",
+          "Array.prototype.toArray",
+          "Array.prototype.zip",
+          "Array.prototype.size",
+          "Array.prototype.inspect",
+          "Array.prototype._reverse",
+          "Array.prototype._each",
+          "Array.prototype.clear",
+          "Array.prototype.first",
+          "Array.prototype.last",
+          "Array.prototype.compact",
+          "Array.prototype.flatten",
+          "Array.prototype.without",
+          "Array.prototype.uniq",
+          "Array.prototype.intersect",
+          "Array.prototype.clone",
+          "String.prototype.gsub",
+          "String.prototype.scan",
+          "String.prototype.truncate",
+          "String.prototype.strip",
+          "String.prototype.stripTags",
+          "String.prototype.stripScripts",
+          "String.prototype.extractScripts",
+          "String.prototype.evalScripts",
+          "String.prototype.escapeHTML",
+          "String.prototype.unescapeHTML",
+          "String.prototype.toQueryParams",
+          "String.prototype.parseQuery",
+          "String.prototype.toArray",
+          "String.prototype.succ",
+          "String.prototype.times",
+          "String.prototype.camelize",
+          "String.prototype.capitalize",
+          "String.prototype.underscore",
+          "String.prototype.dasherize",
+          "String.prototype.inspect",
+          "String.prototype.unfilterJSON",
+          "String.prototype.isJSON",
+          "String.prototype.evalJSON",
+          "String.prototype.include",
+          "String.prototype.empty",
+          "String.prototype.blank",
+          "String.prototype.interpolate",
+          "Number.prototype.toColorPart",
+          "Number.prototype.succ",
+          "Number.prototype.times",
+          "Number.prototype.toPaddedString",
+          "Number.prototype.abs",
+          "Number.prototype.round",
+          "Number.prototype.ceil",
+          "Number.prototype.floor",
+          "Function.prototype.argumentNames",
+          "Function.prototype.bindAsEventListener",
+          "Function.prototype.curry",
+          "Function.prototype.delay",
+          "Function.prototype.defer",
+          "Function.prototype.wrap",
+          "Function.prototype.methodize"
+        ],
+        "functionsReturnWindow": [
+          "Array.prototype.clear",
+          "Number.prototype.times",
+          "Function.prototype.curry"
+        ]
+      }
+    },
+    {
+      "name": "quantumui",
+      "version": "1.2.0",
+      "result": {
+        "prototypeFunctions": [
+          "String.prototype.clean",
+          "String.prototype.capitaliseFirstLetter",
+          "String.prototype.toTitleCase",
+          "String.prototype.toSentenceCase"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "qoopido.js",
+      "version": "3.7.4",
+      "result": {
+        "prototypeFunctions": [
+          "String.prototype.ucfirst",
+          "String.prototype.lcfirst"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "qcobjects",
+      "version": "2.3.69",
+      "result": {
+        "prototypeFunctions": [
+          "Array.prototype.unique",
+          "Array.prototype.table",
+          "Array.prototype.sum",
+          "Array.prototype.avg",
+          "Array.prototype.min",
+          "Array.prototype.max",
+          "Array.prototype.sortBy",
+          "String.prototype.__mAll__",
+          "String.prototype.list"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "survey-react",
+      "version": "1.9.45",
+      "result": {
+        "prototypeFunctions": [
+          "String.prototype.format"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "rivescript",
+      "version": "2.2.0",
+      "result": {
+        "prototypeFunctions": [
+          "Array.prototype.flatten",
+          "String.prototype.padLeft",
+          "String.prototype.padRight"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "rantjs",
+      "version": "1.0.6",
+      "result": {
+        "prototypeFunctions": [
+          "String.prototype.toTitleCase",
+          "String.prototype.toWordCase",
+          "String.prototype.toSentenceCase"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "RGraph",
+      "version": "606",
+      "result": {
+        "prototypeFunctions": [
+          "String.prototype.format"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "rita",
+      "version": "2.8.1",
+      "result": {
+        "prototypeFunctions": [
+          "String.prototype.seed",
+          "String.prototype.hashCode"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "ScrollTrigger",
+      "version": "1.0.5",
+      "result": {
+        "prototypeFunctions": [
+          "Array.prototype.each"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "survey-vue",
+      "version": "1.9.45",
+      "result": {
+        "prototypeFunctions": [
+          "String.prototype.format"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "scriptaculous",
+      "version": "1.9.0",
+      "result": {
+        "prototypeFunctions": [
+          "String.prototype.parseColor"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "should.js",
+      "version": "13.2.3",
+      "result": {
+        "prototypeFunctions": [
+          "Object.prototype.should"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "simplecartjs",
+      "version": "3.0.5",
+      "result": {
+        "prototypeFunctions": [
+          "String.prototype.reverse"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "string_score",
+      "version": "0.1.22",
+      "result": {
+        "prototypeFunctions": [
+          "String.prototype.score"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "strapdown-topbar",
+      "version": "1.6.4",
+      "result": {
+        "prototypeFunctions": [
+          "String.prototype.contains"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "TableExport",
+      "version": "5.2.0",
+      "result": {
+        "prototypeFunctions": [
+          "Array.prototype.processRows",
+          "Array.prototype.processCols"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "tablefilter",
+      "version": "2.5.0",
+      "result": {
+        "prototypeFunctions": [
+          "Array.prototype.tf_Has",
+          "Array.prototype.tf_IndexByValue",
+          "String.prototype.tf_MatchCase",
+          "String.prototype.tf_Trim",
+          "String.prototype.tf_LCase",
+          "String.prototype.tf_UCase"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "tmlib.js",
+      "version": "0.5.2",
+      "result": {
+        "prototypeFunctions": [
+          "Array.prototype.first",
+          "Array.prototype.last",
+          "Array.prototype.equals",
+          "Array.prototype.deepEquals",
+          "Array.prototype.contains",
+          "Array.prototype.swap",
+          "Array.prototype.erase",
+          "Array.prototype.eraseAll",
+          "Array.prototype.eraseIf",
+          "Array.prototype.eraseIfAll",
+          "Array.prototype.random",
+          "Array.prototype.pickup",
+          "Array.prototype.lot",
+          "Array.prototype.uniq",
+          "Array.prototype.flatten",
+          "Array.prototype.clone",
+          "Array.prototype.clear",
+          "Array.prototype.range",
+          "Array.prototype.shuffle",
+          "Array.prototype.sum",
+          "Array.prototype.average",
+          "Array.prototype.each",
+          "Array.prototype.toULElement",
+          "Array.prototype.toOLElement",
+          "String.prototype.format",
+          "String.prototype.capitalize",
+          "String.prototype.capitalizeFirstLetter",
+          "String.prototype.toDash",
+          "String.prototype.toHash",
+          "String.prototype.padding",
+          "String.prototype.paddingLeft",
+          "String.prototype.paddingRight",
+          "String.prototype.quotemeta",
+          "String.prototype.count",
+          "String.prototype.include",
+          "String.prototype.toArray",
+          "String.prototype.toObjectAsQuery",
+          "String.prototype.toCRC32",
+          "Number.prototype.round",
+          "Number.prototype.ceil",
+          "Number.prototype.floor",
+          "Number.prototype.toInt",
+          "Number.prototype.toHex",
+          "Number.prototype.toBin",
+          "Number.prototype.toUnsigned",
+          "Number.prototype.padding",
+          "Number.prototype.times",
+          "Number.prototype.upto",
+          "Number.prototype.downto",
+          "Number.prototype.step",
+          "Object.prototype.defineVariable",
+          "Object.prototype.defineFunction",
+          "Object.prototype.defineInstanceVariable",
+          "Object.prototype.defineInstanceMethod",
+          "Object.prototype.setter",
+          "Object.prototype.getter",
+          "Object.prototype.accessor",
+          "Object.prototype.$forIn",
+          "Object.prototype.$has",
+          "Object.prototype.$extend",
+          "Object.prototype.$safe",
+          "Object.prototype.$strict",
+          "Object.prototype.$pick",
+          "Object.prototype.$omit",
+          "Function.prototype.toArrayFunction"
+        ],
+        "functionsReturnWindow": [
+          "Array.prototype.swap",
+          "Array.prototype.eraseAll",
+          "Array.prototype.eraseIf",
+          "Array.prototype.eraseIfAll",
+          "Array.prototype.clear",
+          "Array.prototype.shuffle",
+          "Number.prototype.times",
+          "Number.prototype.upto",
+          "Number.prototype.downto",
+          "Number.prototype.step",
+          "Object.prototype.$extend",
+          "Object.prototype.$safe",
+          "Object.prototype.$strict"
+        ]
+      }
+    },
+    {
+      "name": "typeis",
+      "version": "1.1.2",
+      "result": {
+        "prototypeFunctions": [
+          "Object.prototype.typeis"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "uppy",
+      "version": "3.0.0",
+      "result": {
+        "prototypeFunctions": [
+          "Array.prototype.filterOut",
+          "Array.prototype.filterReject",
+          "Array.prototype.group",
+          "Array.prototype.groupBy",
+          "Array.prototype.groupByToMap",
+          "Array.prototype.groupToMap",
+          "Array.prototype.lastIndex",
+          "Array.prototype.lastItem",
+          "Array.prototype.toReversed",
+          "Array.prototype.toSorted",
+          "Array.prototype.toSpliced",
+          "Array.prototype.uniqueBy",
+          "Array.prototype.with",
+          "String.prototype.codePoints",
+          "Function.prototype.unThis"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "vanta",
+      "version": "0.5.22",
+      "result": {
+        "prototypeFunctions": [
+          "Number.prototype.clamp"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "waud.js",
+      "version": "1.0.3",
+      "result": {
+        "prototypeFunctions": [
+          "String.prototype.__class__"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "zui",
+      "version": "1.10.0",
+      "result": {
+        "prototypeFunctions": [
+          "Array.prototype.where",
+          "Array.prototype.groupBy"
+        ],
+        "functionsReturnWindow": []
+      }
+    },
+    {
+      "name": "6to5",
+      "version": "3.6.5",
+      "result": {
+        "prototypeFunctions": [
+          "Object.prototype.Symbol(tie)_1.sj2qnm5bjm"
+        ],
+        "functionsReturnWindow": []
+      }
+    }
+  ]
+}

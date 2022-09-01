@@ -1,5 +1,7 @@
 # Who pollutes your prototype?
 
+(I wrote a blog post for this, [English](https://blog.huli.tw/2022/09/01/en/angularjs-csp-bypass-cdnjs/), [中文](https://blog.huli.tw/2022/09/01/angularjs-csp-bypass-cdnjs/))
+
 One day, I was searching for a way to bypass Angular sandbox, and I found this interesting post: [H5SC Minichallenge 3: "Sh*t, it's CSP!"](https://github.com/cure53/XSSChallengeWiki/wiki/H5SC-Minichallenge-3:-%22Sh*t,-it's-CSP!%22#191-bytes)
 
 One of the solutions caught my eye, it uses Angular combining Prototype.js to bypass the sandbox, like this:
@@ -39,6 +41,8 @@ Timewise, I only check the latest version of every library.
 ## Result
 
 There are 4290 libraries on cdn.js at the time of writing, and 74 of them add new functions directly to the prototype(which is not recommended because it pollutes the prototype):
+
+(You can find the detail here: [pollutes.json](https://github.com/aszx87410/cdnjs-prototype-pollution/blob/main/data/pollutes.json))
 
 1. 6to5@3.6.5
 2. Colors.js@1.2.4
